@@ -1,23 +1,18 @@
-# Microsoft Cloud Workshop template *(replace with workshop name)*
-*Please provide an introduction to the workshop. For example:*
+# Automated Machine Learning with Azure Databricks and Azure Machine Learning Service*
 
-Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. Their latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
+Develop an engine failure prediction model using NASA's turbofan engine degradation simulation Data Set.
 
 ## Target audience
-*Please list the target audience for this workshop. For example:*
--	Application developer
--	Infrastructure architect
--	Database administrator
--	AI developer
--	Data scientist
+
+-AI developer
+-Data scientist
 
 ## Abstract
-*Please provide descriptions of the overall workshop, the whiteboard design session and hands on lab. For example:*
 
 ### Workshop
-In this workshop, you will look at the process of migrating an on-premises data warehouse to Azure SQL Data Warehouse. Throughout the whiteboard design session and hands-on lab, you will look at the planning process for data warehouse migration, identifying schema and data incompatibilities, efficiently migrating data from on-premises databases to the cloud, data distribution in Azure SQL Data Warehouse, migrating ETL jobs to Azure Data Factory, and supporting ad-hoc workloads in an Azure SQL Data Warehouse through Azure Analysis Services.
+In this workshop you will gain familiarity with automated machine learning using Azure machine Learning Services. We will introduce the powerful AI combination of Azure Datbricks and Azure Machine Leraning Services to train and deploy a predictive maintenance regression model. 
 
-At the end of this workshop, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
+At the end of this workshop, you will better able to leverage Databricks and Azure Machine Learning services to accelerate your advanced analytics deliverables.
 
 ### Whiteboard design session *(this will go in the readme and in the WDS document)*
 In this whiteboard design session, you will work in a group to look at the process of migrating an on-premises data warehouse to Azure SQL Data Warehouse. The design session will cover planning for a data warehouse migration, data and schema preparation, data loading, optimizing the data distribution, and building a solution to support ad-hoc queries.
@@ -30,15 +25,14 @@ In this hands-on lab, you will migrate an existing on-premises enterprise data w
 At the end of this hands-on lab, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
 
 ## Azure services and related products
-*Please list the services and products that are highlighted in the workshop. For example:*
--	Azure SQL Data Warehouse
--	Azure Data Factory
--	Azure Analysis Services
--	Azure Storage
 
-## Azure solutions
-*This is an internal reference and will be updated by project PM.*
+-Azure Databricks
+-Azure Machine Learning Service
+-Azure Storage
+-Azure Container Instance
 
+
+#
 ## Related references
 *This should be a list of and links to prereqs, architectural diagrams, supporting docs, or briefing decks related to the material.* 
 - [MCW](https://github.com/Microsoft/MCW)

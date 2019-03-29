@@ -1,11 +1,11 @@
-# Automated Machine Learning with Azure Databricks and Azure Machine Learning Service*
+# Automated Machine Learning with Azure Databricks and Azure Machine Learning Service
 
 Develop an engine failure prediction model using NASA's turbofan engine degradation simulation Data Set.
 
 ## Target audience
 
--AI developer
--Data scientist
+- AI developer
+- Data scientist
 
 ## Abstract
 

@@ -14,12 +14,12 @@ In this workshop you will gain familiarity with automated machine learning using
 
 At the end of this workshop, you will better able to leverage Databricks and Azure Machine Learning services to accelerate your advanced analytics deliverables.
 
-### Lab 
-.1 [Setup](/Labs/01%20Lab-Setup)
-.2 Data Prep
-.3 Azure Machine Learning Service - Regression Model
-.4 Automated Machine Learning
-.5 Model Deployment
+### Labs 
+1. [Setup](/Labs/01%20Lab-Setup)
+2. Data Prep
+3. Azure Machine Learning Service - Regression Model
+4. Automated Machine Learning
+5. Model Deployment
 
 ## Azure services and related products
 

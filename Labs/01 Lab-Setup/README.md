@@ -1,16 +1,15 @@
-# 0.1 Sign-into Portal
+## 0.1 Azure Subscription
 
-Sign in to https://portal.azure.com
 
-# 0.2 Create Resource Group 
+## 0.2 Create Resource Group 
 
 Create Resource Group **AutoML-RG**
 
-# 0.3 Create Azure Machine Learning Workspace
+## 0.3 Create Azure Machine Learning Workspace
 
 To create workspace, follow step: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace
 
-# 0.4 Create Azure Storage Account
+## 0.4 Create Azure Storage Account
 
 To create a general-purpose v2 storage account in the Azure portal, follow these steps:
 1. In the Azure portal, select All services. In the list of resources, type Storage Accounts. As you begin typing, the list filters based on your input. Select Storage Accounts.
@@ -33,14 +32,14 @@ To create a general-purpose v2 storage account in the Azure portal, follow these
 For more information about types of storage accounts and other storage account settings, see Azure storage account overview. For more information on resource groups, see Azure Resource Manager overview.
 
 
-# 0.5 Create Azure Databricks Workspace
-
-## Create an Azure Databricks workspace
-
-### Log in to the Azure portal
-Log in to the [Azure portal](https://portal.azure.com/).
+## 0.5 Create Azure Databricks Workspace
 
 ### Create an Azure Databricks workspace
+
+#### Log in to the Azure portal
+Log in to the [Azure portal](https://portal.azure.com/).
+
+#### Create an Azure Databricks workspace
 
 Create an Azure Databricks workspace using the Azure portal.
 
@@ -64,11 +63,11 @@ PropertyDescription
 3. The workspace creation takes a few minutes. During workspace creation, the portal displays the **Submitting deployment for Azure Databricks** tile on the right side. You may need to scroll right on your dashboard to see the tile. There is also a progress bar displayed near the top of the screen. You can watch either area for progress.
 
 
-## Configure Azure Databricks Environment for Automated Machine Learning
+### Configure Azure Databricks Environment for Automated Machine Learning
 
 Set-up Databricks Environment: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#azure-databricks
 
-### For Auto ML !!
+#### For Auto ML !!
 
 Use these settings:
 

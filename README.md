@@ -23,13 +23,11 @@ At the end of this workshop, you will better able to leverage Databricks and Azu
 
 ## Azure services and related products
 
--Azure Databricks
--Azure Machine Learning Service
--Azure Storage
--Azure Container Instance
+- Azure Databricks
+- Azure Machine Learning Service
+- Azure Storage
+- Azure Container Instance
 
-
-#
 ## Related references
 *This should be a list of and links to prereqs, architectural diagrams, supporting docs, or briefing decks related to the material.* 
 - [MCW](https://github.com/Microsoft/MCW)

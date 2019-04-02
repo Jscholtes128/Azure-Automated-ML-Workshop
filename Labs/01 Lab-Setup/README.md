@@ -68,28 +68,23 @@ PropertyDescription
 
 Set-up Databricks Environment: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#azure-databricks
 
-###For Auto ML !!
+### For Auto ML !!
 
 Use these settings:
 
 Setting|Applies to|Value
------------------------------------------|-------------|----------------------------
- Cluster name |always| yourclustername
-
- Databricks Runtime |always| Any non ML runtime (non ML 4.x, 5.x)
-
- Python version |always| 3
-
- Workers |always| 2 or higher
-
- Worker node VM types   
+-------------------------------------------|--------------------|----------------------------
+Cluster name |always| yourclustername
+Databricks Runtime |always| Any non ML runtime (non ML 4.x, 5.x)
+Python version |always| 3
+Workers |always| 2 or higher
+Worker node VM types
 (determines max # of concurrent iterations) |**Automated ML only**| Memory optimized VM preferred
-
- Enable Autoscaling |**Automated ML only**|Uncheck
-
+Enable Autoscaling |**Automated ML only**|Uncheck
 
 **Warning No other SDK extras can be installed.**
 
 For Databricks -with-automated ML capabilities Upload Python Egg or PyPI azureml-sdk[automl_databricks]
+
 - Do not select Attach automatically to all clusters.
 - Select Attach next to your cluster name.

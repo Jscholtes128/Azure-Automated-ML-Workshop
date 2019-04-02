@@ -14,15 +14,12 @@ In this workshop you will gain familiarity with automated machine learning using
 
 At the end of this workshop, you will better able to leverage Databricks and Azure Machine Learning services to accelerate your advanced analytics deliverables.
 
-### Whiteboard design session *(this will go in the readme and in the WDS document)*
-In this whiteboard design session, you will work in a group to look at the process of migrating an on-premises data warehouse to Azure SQL Data Warehouse. The design session will cover planning for a data warehouse migration, data and schema preparation, data loading, optimizing the data distribution, and building a solution to support ad-hoc queries.
-
-At the end of this whiteboard design session, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
-
-### Hands-on lab *(this will go in the readme and in the HOL document)*
-In this hands-on lab, you will migrate an existing on-premises enterprise data warehouse to the cloud. You will investigate the current data warehouse to identify any incompatibilities, you will export the data from the on-premises data warehouse and transfer it to Azure Blob Storage. Then you will load the data into the warehouse. Finally, you will integrate the warehouse by migrating ETL to Azure Data Factory and supporting ad-hoc access by implementing Azure Analysis Services.
-
-At the end of this hands-on lab, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
+### Lab 
+.1 [Setup](/Labs/01%20Lab-Setup)
+.2 Data Prep
+.3 Azure Machine Learning Service - Regression Model
+.4 Automated Machine Learning
+.5 Model Deployment
 
 ## Azure services and related products
 

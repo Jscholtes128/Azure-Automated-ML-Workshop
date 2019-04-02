@@ -45,9 +45,9 @@ Log in to the [Azure portal](https://portal.azure.com/).
 Create an Azure Databricks workspace using the Azure portal.
 
 1. In the Azure portal, select **Create a resource** &gt; **Data + Analytics** &gt; **Azure Databricks**. 
-![ADBPortal](/Images/azure-databricks-on-portal.png)
+![ADBPortal](Images/azure-databricks-on-portal.png)
 2. Under **Azure Databricks Service**, provide the values to create a Databricks workspace. Provide the following values: 
-![ADBWorkSpace](/Images/create-databricks-workspace.png)
+![ADBWorkSpace](Images/create-databricks-workspace.png)
 
 
 PropertyDescription
